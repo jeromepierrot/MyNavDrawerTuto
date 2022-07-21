@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyNavDrawer</string>
+
+    <!-- Used in NavigationDrawer -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="main_activity_menu_settings">Paramètres</string>
+    <string name="main_activity_menu_profile">Profil</string>
+    <string name="main_activity_menu_news">Actualités</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
